@@ -1,4 +1,4 @@
-#virtual-baby
+# virtual-baby
 
 Bu proje, bir sanal bebeğin ihtiyaçlarını yönetmeye yönelik basit bir oyun sunar. Oyun, bebeğin açlık, uyku, sevgi, sosyalleşme, sağlık, eğitim, hijyen, tuvalet ihtiyacı gibi çeşitli durumlarını takip etmeyi ve yönetmeyi amaçlar.
 
